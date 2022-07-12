@@ -1,0 +1,20 @@
+{
+  "name": "mars-rover",
+  "version": "1.0.0",
+  "description": "Test Rover",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeonardoNascimentoDev/mars-rover"
+  },
+  "author": "Leonardo Nascimento",
+  "license": "ISC",
+  "homepage": "https://github.com/LeonardoNascimentoDev/mars-rover#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
