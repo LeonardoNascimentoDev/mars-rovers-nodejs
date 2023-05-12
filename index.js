@@ -5,7 +5,6 @@ const readline = require('readline').createInterface({
 let rover;
 let inpNot = 1;
 let output;
-
 class Rover {
     constructor(upX, upY){
         this.upX = upX;
