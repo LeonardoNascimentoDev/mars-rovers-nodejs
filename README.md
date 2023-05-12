@@ -2,7 +2,7 @@
 ## How to run the code
 ```
 git clone https://github.com/LeonardoNascimentoDev/mars-rover
-cd mars-rover
+cd mars-rover-nodejs
 npm install
 npm start
 ```
